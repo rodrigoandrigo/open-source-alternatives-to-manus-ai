@@ -32,6 +32,8 @@ https://github.com/Darwin-lfl/langmanus
 
 ## KwaiAgents
 https://github.com/KwaiKEG/KwaiAgents
+\n## Agenta
+https://github.com/Agenta-AI/agenta
 
 
 
